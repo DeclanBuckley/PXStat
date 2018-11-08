@@ -1,7 +1,7 @@
 # hello-world
 ---------------------------
 
-![alt text](https://github.com/DeclanBuckley/hello-world/blob/master/Github/CSO-Logo.jpg)
+![alt text](https://github.com/DeclanBuckley/hello-world/blob/master/Github/CSO_Logo_.png)
 
 
 Hi humans!
