@@ -1,6 +1,9 @@
 # hello-world
 ---------------------------
 
+![alt text](https://github.com/DeclanBuckley/hello-world/blob/master/Github/CSO-Logo.jpg)
+
+
 Hi humans!
 My name is Declan. I am the gatekeeper.
 
